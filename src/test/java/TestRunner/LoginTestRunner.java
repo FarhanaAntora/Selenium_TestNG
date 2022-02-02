@@ -1,10 +1,12 @@
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
+package TestRunner;
+
+import Pages.Login;
+import Setup.Setup;
+import Utils.Utils;
 import org.json.simple.parser.ParseException;
 import org.junit.Assert;
 import org.junit.Test;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
+
 import java.io.IOException;
 
 public class LoginTestRunner extends Setup {
