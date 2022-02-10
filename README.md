@@ -23,3 +23,4 @@ allure serve allure-results
 ```
 
 
+![report](https://user-images.githubusercontent.com/96485899/153417290-e2cebca3-dbd7-4f0f-b132-91717e97d6f8.PNG)
